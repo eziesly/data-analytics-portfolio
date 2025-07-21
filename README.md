@@ -12,3 +12,9 @@ Explored how lifestyle, demographic, and biometric variables influence sleep qua
 Tools: Excel, Power BI, and R
 
 [View repository](https://eziesly.github.io/sleep-health-and-lifestyle-analysis/)
+
+### 2. Forest Change in Nigeria
+Analysed forest data from (2000-2024) to gain insights into how much dense forests have changed.
+Tools: Excel and Tableau Public
+
+[View repository](https://eziesly.github.io/forest-change-in-nigeria/)
