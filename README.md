@@ -11,7 +11,7 @@ Below, you’ll find projects that demonstrate my ability to turn messy data int
 Explored how lifestyle, demographic, and biometric variables influence sleep quality.
 Tools: Excel, Power BI, and R
 
-[View repository]((https://github.com/eziesly/sleep-health-and-lifestyle-analysis))
+[View repository](https://github.com/eziesly/sleep-health-and-lifestyle-analysis)
 
 ### 2. Forest Change in Nigeria
 Analysed forest data from (2000-2024) to gain insights into how much dense forests have changed.
