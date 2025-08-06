@@ -3,6 +3,9 @@
 Welcome to my portfolio!
 I’m a data analyst focused on using R, Power BI, Excel, Tableau and SQL to uncover insights in healthcare, social behaviour, and sustainability.
 
+## CV
+View my CV [here](https://drive.google.com/file/d/1YeYBd1-JjrE16faOudSCrrEPQXZaD1Uv/view?usp=drive_link)
+
 Below, you’ll find projects that demonstrate my ability to turn messy data into clear, actionable stories through dashboards, visual reports, and statistical analysis.
 
 ## Featured Projects
